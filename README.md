@@ -1,4 +1,4 @@
-# 👋 Hi, I'm John
+# 👋 Hi, I'm Joh
 
 **Technical Business Analyst | Power BI & Enterprise Reporting**
 
