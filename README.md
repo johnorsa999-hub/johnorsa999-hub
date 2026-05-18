@@ -23,3 +23,4 @@ I specialize in enterprise IAM reporting, dashboard development, and structured 
 - IAM Roadmap Reporting Workflow Design
 - Power BI Authorization Performance Dashboard
 - Executive-Level Reporting Presentations
+
